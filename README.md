@@ -1,4 +1,4 @@
-# Python-Lab4
+# Python-Lab5
 Functions
 
 Create a function that takes one parameter of type int, then it prints out the result formatted like the following pattern (if we give it 5 for example):
